@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Sidebar template</title>
+  <title>E-Medical</title>
   
   <link rel='stylesheet' href="css/style.css">
   <link rel='stylesheet' href="css/bootstrap.css">
@@ -69,15 +69,23 @@
                             <div class="sidebar-submenu">
                                 <ul>
                                     <li>
-                                        <a href="#">Dashboard 1
+                                        <a href="#">Paitent Entry
                                             <span class="badge badge-pill badge-success">Pro</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">Dashboard 2</a>
+                                        <a href="#">Item Entry</a>
                                     </li>
                                     <li>
-                                        <a href="#">Dashboard 3</a>
+                                        <a href="#">Supplier Entry</a>
+                                    </li>
+                                    
+                                      <li>
+                                        <a href="#">Tax Entery</a>
+                                    </li>
+                                    
+                                      <li>
+                                        <a href="#">Unit Entery</a>
                                     </li>
                                 </ul>
                             </div>
@@ -91,15 +99,19 @@
                             <div class="sidebar-submenu">
                                 <ul>
                                     <li>
-                                        <a href="#">Products
+                                        <a href="#">Import Excel For Purchase
 
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">Orders</a>
+                                        <a href="#">Manual Purchase Entry</a>
                                     </li>
                                     <li>
-                                        <a href="#">Credit cart</a>
+                                        <a href="#">Purchase Rerturn</a>
+                                    </li>
+                                    
+                                     <li>
+                                        <a href="#">Rerturn Expired Item </a>
                                     </li>
                                 </ul>
                             </div>
@@ -112,20 +124,15 @@
                             <div class="sidebar-submenu">
                                 <ul>
                                     <li>
-                                        <a href="#">General</a>
+                                        <a href="#">Bill To customer</a>
+                                    </li>
+                                     <li>
+                                        <a href="#">Bill Copy</a>
                                     </li>
                                     <li>
-                                        <a href="#">Panels</a>
+                                        <a href="#">Sale Return</a>
                                     </li>
-                                    <li>
-                                        <a href="#">Tables</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Icons</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Forms</a>
-                                    </li>
+                              
                                 </ul>
                             </div>
                         </li>
@@ -137,16 +144,16 @@
                             <div class="sidebar-submenu">
                                 <ul>
                                     <li>
-                                        <a href="#">Pie chart</a>
+                                        <a href="#">Day Closure Report</a>
                                     </li>
                                     <li>
-                                        <a href="#">Line chart</a>
+                                        <a href="#">Stock Report</a>
                                     </li>
                                     <li>
-                                        <a href="#">Bar chart</a>
+                                        <a href="#">Expiry Product Report</a>
                                     </li>
                                     <li>
-                                        <a href="#">Histogram</a>
+                                        <a href="#">Low Stock Report</a>
                                     </li>
                                 </ul>
                             </div>
@@ -159,10 +166,13 @@
                             <div class="sidebar-submenu">
                                 <ul>
                                     <li>
-                                        <a href="#">Google maps</a>
+                                        <a href="#">Supplier Payment</a>
                                     </li>
                                     <li>
-                                        <a href="#">Open street map</a>
+                                        <a href="#">Employee Payment</a>
+                                    </li>
+                                     <li>
+                                        <a href="#">Expenditure Payment</a>
                                     </li>
                                 </ul>
                             </div>
@@ -176,10 +186,10 @@
                             <div class="sidebar-submenu">
                                 <ul>
                                     <li>
-                                        <a href="#">Google maps</a>
+                                        <a href="#">Purchase Report</a>
                                     </li>
                                     <li>
-                                        <a href="#">Open street map</a>
+                                        <a href="#">Sale Report</a>
                                     </li>
                                 </ul>
                             </div>
