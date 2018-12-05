@@ -99,8 +99,7 @@
                             <div class="sidebar-submenu">
                                 <ul>
                                     <li>
-                                        <a href="#">Import Excel For Purchase
-
+                                        <a href="ImportExcelForPurchase.jsp">Import Excel For Purchase
                                         </a>
                                     </li>
                                     <li>
